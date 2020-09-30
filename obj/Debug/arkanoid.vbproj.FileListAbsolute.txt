@@ -1,0 +1,12 @@
+D:\proyectosVB\arkanoid\bin\Debug\arkanoid.exe.config
+D:\proyectosVB\arkanoid\bin\Debug\arkanoid.exe
+D:\proyectosVB\arkanoid\bin\Debug\arkanoid.pdb
+D:\proyectosVB\arkanoid\bin\Debug\arkanoid.xml
+D:\proyectosVB\arkanoid\obj\Debug\arkanoid.vbprojAssemblyReference.cache
+D:\proyectosVB\arkanoid\obj\Debug\arkanoid.Fjuego.resources
+D:\proyectosVB\arkanoid\obj\Debug\arkanoid.Resources.resources
+D:\proyectosVB\arkanoid\obj\Debug\arkanoid.vbproj.GenerateResource.cache
+D:\proyectosVB\arkanoid\obj\Debug\arkanoid.vbproj.CoreCompileInputs.cache
+D:\proyectosVB\arkanoid\obj\Debug\arkanoid.exe
+D:\proyectosVB\arkanoid\obj\Debug\arkanoid.xml
+D:\proyectosVB\arkanoid\obj\Debug\arkanoid.pdb
