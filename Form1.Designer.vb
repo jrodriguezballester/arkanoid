@@ -22,13 +22,24 @@ Partial Class Fjuego
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.Nave = New System.Windows.Forms.Button()
         Me.SuspendLayout()
+        '
+        'Nave
+        '
+        Me.Nave.Location = New System.Drawing.Point(383, 418)
+        Me.Nave.Name = "Nave"
+        Me.Nave.Size = New System.Drawing.Size(80, 25)
+        Me.Nave.TabIndex = 0
+        Me.Nave.Text = "-----"
+        Me.Nave.UseVisualStyleBackColor = True
         '
         'Fjuego
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(882, 453)
+        Me.Controls.Add(Me.Nave)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.MaximizeBox = False
         Me.MinimizeBox = False
@@ -38,4 +49,5 @@ Partial Class Fjuego
 
     End Sub
 
+    Friend WithEvents Nave As Button
 End Class
